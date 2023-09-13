@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "VbpjzOFmvosBx2dg7uEqtZc6egA2ExabIstVAu3EFKs=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\images\\31439ad7-155a-4a6e-9cd9-8d44df95099f.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/31439ad7-155a-4a6e-9cd9-8d44df95099f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\31439ad7-155a-4a6e-9cd9-8d44df95099f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\images\\49f819f8-4608-41dc-a288-e48676e14d26.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/49f819f8-4608-41dc-a288-e48676e14d26.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\49f819f8-4608-41dc-a288-e48676e14d26.png"
+    },
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\images\\6bc08e59-7496-4159-ae29-52a88d688bb1.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/6bc08e59-7496-4159-ae29-52a88d688bb1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6bc08e59-7496-4159-ae29-52a88d688bb1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\images\\bab10ce6-486a-4d81-aeb8-7e0ae4aded44.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day1\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/bab10ce6-486a-4d81-aeb8-7e0ae4aded44.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bab10ce6-486a-4d81-aeb8-7e0ae4aded44.png"
+    }
+  ]
+}
