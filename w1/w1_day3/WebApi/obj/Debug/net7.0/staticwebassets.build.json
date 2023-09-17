@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ntylCWZk3mC6rE+yy8w8LTKxqLO2r5s96IkngzR8p34=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\Abdughaffor\\Desktop\\Entity\\w1\\w1_day3\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

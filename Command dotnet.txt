@@ -1,0 +1,15 @@
+/////create solution
+dotnet new sln -n "name_solution"
+dotnet sln add name(project or classlib)
+
+/////create a classlib : 
+dotnet new classlib -n "name"
+
+Add reference : 
+dotnet add WebApi reference Infrastructure
+
+install ef command
+dotnet tool install --global dotnet-ef 
+//////add migration
+dotnet ef migrations add "add books" -p .\Infrastructure\ -s .\WebApi\
+dotnet ef database update -p .\Infrastructure\ -s .\WebApi\

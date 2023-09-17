@@ -32,7 +32,7 @@ public class CategoryService : ICategoryService
             string sql = @"update category set category_name=@Name where id=@Id;";
             var res= await con.ExecuteAsync(sql,updateCategoryDto);
             if(res==0) return new Response<string>("500");
-            return new Response<string>("Successfuly added category");
+            return new Response<string>("Successfuly updated category");
         }
         catch (Exception ex)
         {
